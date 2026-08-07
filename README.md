@@ -28,7 +28,7 @@ The analysis seeks to answer the following business questions:
 - **Power Query** – Data cleaning and transformation
 - **DAX** – KPI and measure development
 - **Microsoft Excel** – Data inspection and preparation
-- **CSV** – Source dataset format
+
 
 ---
 
@@ -155,7 +155,7 @@ SUM(
 - Technical support
 - Device protection
 
----
+
 ## 📷 Dashboard Preview
 
 | Overview | Vaccine Coverage | Key Influencers |
@@ -217,7 +217,7 @@ The analysis highlights factors such as:
 - Electronic Check payment method
 - Customer tenure
 
-
+---
 ## ⚠️ Business Risks
 ### 1. Revenue Loss
 
@@ -256,4 +256,7 @@ Encourage customers using Electronic Check to switch to automatic payment method
 ## Project Summary
 
 Customer Churn Analysis transforms telecommunications customer data into actionable insights by identifying the customer segments and factors associated with churn and translating those findings into targeted retention strategies.
+---
+## Author 
+Dawodu Fehintoluwa
 
