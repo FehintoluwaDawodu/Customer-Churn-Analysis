@@ -1,4 +1,4 @@
-# 📊 Customer Churn Analysis
+#  Customer Churn Analysis
 
 This project analyzes **customer churn and retention** for a telecommunications company, **ABC Communications**, using Microsoft Power BI, Power Query, DAX, and Excel.
 
@@ -8,7 +8,7 @@ The objective is to transform customer data into **actionable business insights*
 
 ---
 
-## 🎯 Project Objectives
+##  Project Objectives
 
 The analysis seeks to answer the following business questions:
 
@@ -156,8 +156,13 @@ SUM(
 - Device protection
 
 ---
+## 📷 Dashboard Preview
 
+| Overview | Vaccine Coverage | Key Influencers |
+|-----------|------------------|-----------------|
+| *[(Insert Screenshot)](https://github.com/FehintoluwaDawodu/Customer-Churn-Analysis/blob/main/Screenshot%20(54).png))* | *([Insert Screenshot)](https://github.com/FehintoluwaDawodu/Customer-Churn-Analysis/blob/main/Screenshot%20(51).png))* | *([Insert Screenshot)](https://github.com/FehintoluwaDawodu/Customer-Churn-Analysis/blob/main/Screenshot%20(52).png))* [Insert Screenshot)](https://github.com/FehintoluwaDawodu/Customer-Churn-Analysis/blob/main/Screenshot%20(53).png)) |
 
+---
 ## Key Insight
 Customer Base
 
@@ -202,7 +207,7 @@ This suggests that payment experience and payment method may be important factor
 
 ---
 
-## 💉 Key drivers of churn rate
+##  Key drivers of churn rate
 The analysis highlights factors such as:
 
 - Month-to-month contracts
